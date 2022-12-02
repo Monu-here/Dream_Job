@@ -2,3 +2,18 @@
 	padding: 0;
 	margin: 0;
 }
+.navbar{
+	margin: 10px;
+	padding: 10px;
+	padding-left: 10px;
+	margin-left: 30%;
+	background: white;
+	letter-spacing: 1px;
+}
+ul a li{
+	display: inline-block;
+	padding: 20px;
+	padding-right:10px ;
+	margin-left: 10px;
+
+}
