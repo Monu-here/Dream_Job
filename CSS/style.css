@@ -4,10 +4,12 @@
 	margin: 0;
 	font-family: 'Karla', sans-serif;
 font-family: 'Montserrat', sans-serif;
+
 }
 .hi{
 	position: static;
 	margin-left: 25px;
+	text-decoration: none;
 }
 .h{
 	background: #FF7459;
@@ -15,14 +17,20 @@ font-family: 'Montserrat', sans-serif;
 	margin-right: 50px;
 	color: white;
 	align-items: fixed;
+	text-decoration: none;
 
 }
 .h:hover{
 	color: white;
 }
+.navbar-item{
+	text-decoration: none;
+}
 .jh{
 	padding: 5px;
-	font-size: 22px;
+	font-size: 25px;
+	margin:5px;
+	text-decoration: none;
 }
 .jh:hover{
 	    transform: translateX(3px);
@@ -31,4 +39,69 @@ font-family: 'Montserrat', sans-serif;
 }
 .c{
 	margin: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hero_img{
+
+position: absolute;
+width: 500px;
+height: 500px;
+left: 0px;
+top: 0px;
+background-size: cover;
+background-image: url("../Img/1.jpg");
+
+}
+.hero_txt{
+
+
+position: absolute;
+font-family: 'M PLUS 1';
+font-style: normal;
+top: 15px;
+font-weight: 500;
+font-size: 25px;
+line-height: 25px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+
+/*color: #E91138;*/
+
+opacity: 0.9;
+}
+span{
+	color: #E91138;
+}
+.p_txt{
+	position: absolute;
+width: 446px;
+height: 140px;
+left: 3px;
+top: 120%;
+
+font-family: 'M PLUS 1';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* or 160% */
+
+letter-spacing: 0.01em;
+
+color: #79848F;
 }
