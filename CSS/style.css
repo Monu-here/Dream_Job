@@ -105,3 +105,17 @@ letter-spacing: 0.01em;
 
 color: #79848F;
 }
+.hh{
+	background: #FF7459;
+	position: absolute;
+	margin-right: 50px;
+	color: white;
+/*	align-items: fixed;*/
+	text-decoration: none;
+	top: 450px;
+	bottom: 100px;
+
+}
+.hh:hover{
+	color: white;
+}
