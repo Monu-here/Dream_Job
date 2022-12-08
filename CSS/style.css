@@ -534,3 +534,186 @@ height: 400px;
 left: -300px;
 top: 100px;
 }
+
+
+
+.benefit_txt{
+	position: absolute;
+width: 1012px;
+height: 11px;
+left: 250px;
+bottom:530px;
+
+font-family: 'M PLUS 1';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 11px;
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #324354;
+}
+.benefitt_small{
+	position: absolute;
+width: 99px;
+height: 81px;
+left: 250px;
+top: 120px;
+
+}
+
+
+
+
+.benefit_small{
+	position: absolute;
+width: 360px;
+height: 11px;
+left: 40px;
+top: 8px;
+
+font-family: 'M PLUS 1';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 11px;
+/* identical to box height, or 23% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+.benefitt_small1{
+position: absolute;
+width: 99px;
+height: 81px;
+left: 250px;
+top: 170px;
+
+
+
+}
+.benefit_small1{
+	position: absolute;
+width: 360px;
+height: 11px;
+left: 40px;
+top: 8px;
+
+font-family: 'M PLUS 1';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 11px;
+/* identical to box height, or 23% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+
+.benefitt_small2{
+position: absolute;
+width: 99px;
+height: 81px;
+left: 250px;
+top: 220px;
+
+
+
+}
+.benefit_small2{
+	position: absolute;
+width: 360px;
+height: 11px;
+left: 40px;
+top: 8px;
+
+font-family: 'M PLUS 1';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 11px;
+/* identical to box height, or 23% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+
+.benefitt_small3{
+position: absolute;
+width: 99px;
+height: 81px;
+left: 250px;
+top: 270px;
+
+
+
+}
+.benefit_small3{
+	position: absolute;
+width: 360px;
+height: 11px;
+left: 40px;
+top: 8px;
+
+font-family: 'M PLUS 1';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 11px;
+/* identical to box height, or 23% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+
+.benefitt_small4{
+position: absolute;
+width: 99px;
+height: 81px;
+left: 250px;
+top: 320px;
+
+
+
+}
+.benefit_small4{
+	position: absolute;
+width: 360px;
+height: 11px;
+left: 40px;
+top: 8px;
+
+font-family: 'M PLUS 1';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 11px;
+/* identical to box height, or 23% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+}
