@@ -518,10 +518,19 @@ background: #FFFFFF;
 
 position: absolute;
 width: 1200px;
-height: 500px;
+height: 600px;
 left: -300px;
 top: 0px;
 bottom: 10px;
 
 background: #FBF3F0;
+}
+
+
+.photo{
+	position: absolute;
+width: 500px;
+height: 400px;
+left: -300px;
+top: 100px;
 }
