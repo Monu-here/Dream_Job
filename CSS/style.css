@@ -734,3 +734,131 @@ letter-spacing: 0.01em;
 
 color: #000000;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.process{
+	position: absolute;
+width: 3111px;
+height: 450px;
+margin-top: 250%;
+background: #FFFFFF;
+}
+.process_txt{
+	position: absolute;
+width: 1038px;
+height: 110px;
+left: 460px;
+/*top: 40px;*/
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 110px;
+/* identical to box height, or 172% */
+
+display: flex;
+align-items: center;
+
+color: #324354;
+}
+
+
+.process_box{
+	position: absolute;
+width: 350px;
+height: 250px;
+left: 70px;
+top: 200px;
+box-shadow: rgb(0 0 0 / 20%) 0 0 6px;
+
+}
+.process_box1{
+	position: absolute;
+width: 350px;
+height: 250px;
+left: 463px;
+top: 200px;
+box-shadow: rgb(0 0 0 / 20%) 0 0 6px;
+
+}
+.process_box2{
+	position: absolute;
+width: 350px;
+height: 250px;
+left: 850px;
+top: 200px;
+box-shadow: rgb(0 0 0 / 20%) 0 0 6px;
+}
+
+
+
+.process_circle{
+	position: absolute;
+width: 70px;
+height: 70px;
+left: 20px;
+top: 20px;
+border-radius: 100%;
+background: #E4E4E4;
+}
+
+
+
+
+.process_p{
+
+position: absolute;
+width: 32px;
+height: 44px;
+left: 20px;
+top: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 44px;
+/* identical to box height, or 65% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1FB881;
+}
+
+
+
+
+
+.he{
+	width: 152px;
+	height: 110px;
+    display: inline-block;
+    border-top: 3px dashed #d7e4f4;
+    margin-left: 100px;
+    top: 62px;
+    position: absolute;
+    margin-right: 10px;
+    
+    transition: .4s all;
+}
+.process_logo{
+	position: absolute;
+
+left: 258px;
+top: 25px;
+
+}
